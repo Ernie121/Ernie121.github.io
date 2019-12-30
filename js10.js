@@ -17,3 +17,4 @@
 	};
 	ScratchExtensions.register("Base Converter", descriptor, ext);
 })({});
+
